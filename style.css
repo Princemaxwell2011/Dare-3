@@ -1,0 +1,25 @@
+h1 {
+    padding: 50px;
+    /* some padding */
+    text-align: center;
+    /* center the text */
+    background: darkorchid;
+    /* green background */
+    color: silver;
+    /* white text color */
+}
+
+h3 {
+    background: darkorchid;
+    border: dotted 1px;
+    padding: 30px;
+    text-align: center;
+    font-size: xx-large;
+}
+*{
+    background: linear-gradient(to top left,red ,seagreen ,lightseagreen,salmon,blue,gold,silver,royalblue);
+
+}
+*{
+    background: radial-gradient(royalblue,);
+}
